@@ -1,6 +1,6 @@
 # Turtles-Hatching-Robot
 
-![Jacob's Robot Design]("C:\Users\HaiPhan68\OneDrive\Desktop\Turtle-Hatchling-Robot\Turtle_Hatchling_Robot.png")
+![Jacob's Robot Design](Images/Turtle_Hatchling_Robot.png)
 
 ## Purpose
 This repository is used to serve as documentation of Bestest Hatchling Team (Team 7) robot.
