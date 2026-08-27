@@ -15,7 +15,7 @@ This repository is used to serve as documentation of Bestest Hatchling Team (Tea
 
 ## My Contributions
   - Integrated electronics.
-  - Established communication between ESP32 and Turtle controler via the TurtleReceiver Library.
+  - Established communication between ESP32 and Turtle controller via the TurtleReceiver Library.
   - Programmed robot movement and collision detection.
 
 ## Hardware
@@ -25,5 +25,5 @@ This repository is used to serve as documentation of Bestest Hatchling Team (Tea
   - ESP32
 
 ## Notice
-This project was completed during the Spring 2026 semester at Texas A&M University under the Turtle Hatchling Program.
+This project was completed during the Spring 2026 semester at Texas A&M University under the Turtle Hatchling Program. Due to unforeseen flaws of the robot, its final design was change to that of a forklift; we realize that the original idea was too slow.
 
